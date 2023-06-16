@@ -2,7 +2,7 @@
 title: ICT
 description: 学校ICT
 date: 2023-6-16
-slug: test-chinese
+slug: wangluo-chinese
 image: 2023.6.16.jpg
 categories:
     - ITC
